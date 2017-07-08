@@ -1,0 +1,26 @@
+// Descriptive color variables
+
+$gray-31      : #4F4F4F;
+$gray-51      : #828282;
+$gray-74      : #BDBDBD;
+$gray-88      : #E0E0E0;
+$slight-white : #EFEFEF;
+$gray-20      : #333333;
+
+// Functional color variables
+
+// Font stacks
+
+$stack-sans-serif : Helvetica, Arial, sans-serif;
+$stack-lato : 'Lato', $stack-sans-serif;
+$stack-poppins: 'Poppins', $stack-sans-serif;
+
+// Asset paths
+
+// CLip paths
+$clip-right-left: polygon(0 0, 100% 4%, 100% 96%, 0 100%);
+$clip-left-right: polygon(0 4%, 100% 0, 100% 100%, 0 96%);
+
+// Media query breakpoints
+$mq-medium:'(min-width: 768px)';
+$mq-large: '(min-width: 1150px)';
